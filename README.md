@@ -1,7 +1,7 @@
-micro-mob
+Micro Mob
 =========
 
-My Ludum Dare 25 entry - A crime simulator written in Lua with the Moai SDK
+My Ludum Dare 25 entry - A crime simulator written in Lua with the Moai SDK.
 
 Made in 48 hours.
 
@@ -11,8 +11,9 @@ You can read about the games inception in the [devlog](http://www.bytesizeadvent
 
 Here's a [timelaspse](https://www.youtube.com/watch?v=oVIoxTh3YQI) of the game's creation too.
 
+
 Running the game
-=========
+---------
 
 PC Users: Extract the folder anywhere on your computer and double click the run.bat file.
 
